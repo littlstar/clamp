@@ -6,7 +6,7 @@ Macro to clamp a value between two other values
 ## Installation
 
 ```sh
-$ clib install jwerle/clamp --save
+$ clib install littlstar/clamp --save
 ```
 
 ## Usage
